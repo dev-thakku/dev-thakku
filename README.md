@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working as a **Freelancer**
+- 🔭 I’m currently working as a **Software Engineer @ Trenser**
 
-- 🌱 I’m currently learning **NodeJS, Express, MongoDB**
+- 🌱 I’m currently learning **AWS and DevOps**
 
-- 👨‍💻 All of my projects are available at [projects.jemshith.tk](projects.jemshith.tk)
-
-- 💬 Ask me about **HTML, CSS, JS, ReactJS, MySQL**
+- 💬 Ask me about **HTML, CSS, JS, ReactJS, MySQL, NodeJS, AWS, DevOps**
 
 - 📫 How to reach me **jemshithtk@gmail.com**
 
