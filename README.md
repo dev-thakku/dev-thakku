@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **A flock of crows is known as a murder.**
 
+[![An image of @devthakku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devthakku)](https://holopin.io/@devthakku)
+
 <h2>Languages I Spoke</h2>
 
 - <h3>#FRONTEND</h3>
